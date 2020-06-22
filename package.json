@@ -1,0 +1,47 @@
+{
+    "title": "Joddy Landing Page",
+    "name": "joddy",
+    "version": "1",
+    "scripts": {
+        "start": "node_modules/.bin/gulp watch"
+    },
+    "description": ".",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive"
+    ],
+    "homepage": "https://rndae.github.io/joddy/",
+    "bugs": {
+        "url": "https://github.com/rndae/joddy/issues"
+    },
+    "license": "MIT",
+    "author": "rndae",
+    "contributors": [
+        "Start Bootstrap",
+        "David Miller (http://davidmiller.io/)",
+        "rndae (https://rndae.github.io/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rndae/joddy.git"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.13.1",
+        "bootstrap": "^4.5.0",
+        "browser-sync": "^2.26.7",
+        "del": "^5.1.0",
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^7.0.1",
+        "gulp-clean-css": "^4.3.0",
+        "gulp-header": "^2.0.9",
+        "gulp-plumber": "^1.2.1",
+        "gulp-rename": "^2.0.0",
+        "gulp-sass": "^4.1.0",
+        "jquery": "^3.5.1",
+        "merge-stream": "^2.0.0",
+        "simple-line-icons": "^2.4.1"
+    },
+    "devDependencies": {}
+}
